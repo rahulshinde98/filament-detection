@@ -1,8 +1,13 @@
 # Filament Detection
-Code for weak lensing detection of intercluster filaments
+## Overview
+This repository provides the filament detection code used to produce the results presented in the [paper](https://arxiv.org/pdf/2510.26318)
 
-[In the process of updating readme page]
-[Yet to upload mock catalog code]
+## Dataset 
+We provide a reduced version of the [shear catalog](https://github.com/rahulshinde98/filament-detection/edit/main/shear_catalog.csv) for the Abell 2029 system, containing galaxy positions and shear measurements. A [FITS header file](https://github.com/rahulshinde98/filament-detection/edit/main/image_header.fits) corresponding to the FITS image used in the analysis is also provided. 
+
+## Code 
+We provide a [jupyter notebook](https://github.com/rahulshinde98/filament-detection/edit/main/filament_detection_example.ipynb) that presents the filament detection analysis and corresponding results for the Abell 2029 system. The [requirements file](https://github.com/rahulshinde98/filament-detection/edit/main/requirements.txt) lists all dependencies required to run the notebook. 
+
 
 ## Attribution
 If you use this work, please cite the following paper: [Shinde and Dell’Antonio (2025)](https://arxiv.org/abs/2510.26318).
