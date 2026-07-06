@@ -1,5 +1,6 @@
 # Filament Detection
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21146400.svg)](https://doi.org/10.5281/zenodo.21146400) [![arXiv](https://img.shields.io/badge/arXiv-preprint-b31b1b.svg)](https://arxiv.org/pdf/2510.263189)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21146400.svg)](https://doi.org/10.5281/zenodo.21146400)
+[![arXiv](https://img.shields.io/badge/arXiv-preprint-b31b1b.svg)](https://arxiv.org/pdf/2510.263189)
 
 ## Overview
 This repository provides the filament detection code used to produce the results presented in the [paper](https://arxiv.org/pdf/2510.26318)
